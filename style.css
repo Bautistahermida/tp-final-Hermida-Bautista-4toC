@@ -15,7 +15,7 @@ body {
 
 header {
     background-color: #17324D;
-    color: white;
+    color: #EAF4F8;
     text-align: center;
     border: 3px solid #8CCBE8;
     padding: 15px;
@@ -32,7 +32,7 @@ header img {
 }
 
 header p {
-    color: white;
+    color: #EAF4F8;
     text-align: center;
 }
 
@@ -46,7 +46,7 @@ nav {
 
 nav a {
     background-color: #17324D;
-    color: white;
+    color: #EAF4F8;
     text-decoration: none;
     padding: 10px;
     border: 2px solid #F2C94C;
@@ -88,7 +88,7 @@ p {
 /* SECCIONES Y ARTICULOS */
 
 section {
-    background-color: white;
+    background-color: #EAF4F8;
     border: 2px solid #8CCBE8;
     margin: 20px;
     padding: 15px;
@@ -138,14 +138,14 @@ ul {
 
 footer {
     background-color: #17324D;
-    color: white;
+    color: #EAF4F8;
     text-align: center;
     border: 3px solid #8CCBE8;
     padding: 15px;
 }
 
 footer p {
-    color: white;
+    color: #EAF4F8;
     text-align: center;
 }
 
