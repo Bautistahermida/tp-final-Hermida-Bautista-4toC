@@ -1,5 +1,3 @@
-/* ESTILOS GENERALES */
-
 * {
     margin: 5px;
     padding: 5px;
@@ -10,8 +8,6 @@ body {
     color: #17324D;
     font-family: Verdana;
 }
-
-/* ENCABEZADO */
 
 header {
     background-color: #17324D;
@@ -36,8 +32,6 @@ header p {
     text-align: center;
 }
 
-/* BARRA DE NAVEGACION */
-
 nav {
     background-color: #8CCBE8;
     text-align: center;
@@ -58,8 +52,6 @@ nav a:hover {
     background-color: #F2C94C;
     color: #17324D;
 }
-
-/* CONTENIDO PRINCIPAL */
 
 main {
     background-color: #EAF4F8;
@@ -85,8 +77,6 @@ p {
     text-align: justify;
 }
 
-/* SECCIONES Y ARTICULOS */
-
 section {
     background-color: #EAF4F8;
     border: 2px solid #8CCBE8;
@@ -101,8 +91,6 @@ article {
     padding: 15px;
 }
 
-/* IMAGENES */
-
 main img {
     width: 300px;
     max-width: 90%;
@@ -111,8 +99,6 @@ main img {
     margin: 10px auto;
     border: 3px solid #8CCBE8;
 }
-
-/* BOTONES Y ENLACES DEL CONTENIDO */
 
 main a {
     background-color: #F2C94C;
@@ -128,13 +114,9 @@ main a:hover {
     background-color: #8CCBE8;
 }
 
-/* LISTAS */
-
 ul {
     padding-left: 35px;
 }
-
-/* PIE DE PAGINA */
 
 footer {
     background-color: #17324D;
